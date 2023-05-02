@@ -2,14 +2,16 @@ const express = require("express");
 const app = express();
 const port = process.env.PORT || 5000;
 const chef = require("./data/chef.json");
+//node cors
 var cors = require("cors");
 app.use(cors());
-app.get("/", (req, res) => {
-  res.send("Chef Recipe Hunter Api");
-});
+
+//get all chefs data
 app.get("/chefs", (req, res) => {
   res.send(chef);
 });
+
+//get details chefs data
 app.get("/chefs/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
@@ -17,6 +19,7 @@ app.get("/chefs/:id", (req, res) => {
   console.log(selectedChef);
   res.send(selectedChef);
 });
+
 app.listen(port, () => {
   console.log(`Port number: ${port}`);
 });
