@@ -15,7 +15,7 @@
     ],
     "cookingMethod": "Raw, sliced and arranged on a platter",
     "rating": 4.9,
-    "picture": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=788&q=80"
+    "dishPicture": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=788&q=80"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "ingredients": ["Chicken Breast", "Soy Sauce", "Honey", "Ginger", "Garlic"],
     "cookingMethod": "Grilled and coated in teriyaki sauce",
     "rating": 4.7,
-    "picture": "https://images.unsplash.com/photo-1609183480237-ccbb2d7c5772?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    "dishPicture": "https://images.unsplash.com/photo-1609183480237-ccbb2d7c5772?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 3,
@@ -41,7 +41,7 @@
     ],
     "cookingMethod": "Boiled and served in a soup with toppings",
     "rating": 4.5,
-    "picture": "https://images.unsplash.com/photo-1610554675919-858d84c76d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
+    "dishPicture": "https://images.unsplash.com/photo-1610554675919-858d84c76d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
   },
   {
     "id": 4,
@@ -58,7 +58,7 @@
     ],
     "cookingMethod": "Grilled or pan-fried",
     "rating": 4.8,
-    "picture": "https://images.unsplash.com/photo-1636401870585-a8852371e84a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    "dishPicture": "https://images.unsplash.com/photo-1636401870585-a8852371e84a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 5,
@@ -74,7 +74,7 @@
     ],
     "cookingMethod": "Boiled",
     "rating": 4.6,
-    "picture": "https://images.unsplash.com/photo-1618841557871-b4664fbf0cb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    "dishPicture": "https://images.unsplash.com/photo-1618841557871-b4664fbf0cb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 6,
@@ -92,7 +92,7 @@
     ],
     "cookingMethod": "Battered and deep-fried",
     "rating": 4.4,
-    "picture": "https://images.unsplash.com/photo-1666599207746-0868c6a556d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    "dishPicture": "https://images.unsplash.com/photo-1666599207746-0868c6a556d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "id": 7,
