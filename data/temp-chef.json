@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Adam Cole",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 3,
+    "likes": 4500,
+    "signatureDishes": [
+      {
+        "name": "Sushi Platter",
+        "ingredients": [
+          "Tuna",
+          "Salmon",
+          "Yellowtail",
+          "Octopus",
+          "Shrimp",
+          "Wasabi",
+          "Soy Sauce"
+        ],
+        "cookingMethod": "Raw, sliced and arranged on a platter",
+        "rating": 4.9,
+        "picture": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=788&q=80"
+      },
+      {
+        "name": "Teriyaki Chicken",
+        "ingredients": [
+          "Chicken Breast",
+          "Soy Sauce",
+          "Honey",
+          "Ginger",
+          "Garlic"
+        ],
+        "cookingMethod": "Grilled and coated in teriyaki sauce",
+        "rating": 4.7,
+        "picture": "https://images.unsplash.com/photo-1609183480237-ccbb2d7c5772?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Udon Noodles",
+        "ingredients": [
+          "Udon Noodles",
+          "Dashi Stock",
+          "Soy Sauce",
+          "Spinach",
+          "Green Onions"
+        ],
+        "cookingMethod": "Boiled and served in a soup with toppings",
+        "rating": 4.5,
+        "picture": "https://images.unsplash.com/photo-1610554675919-858d84c76d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Chris Pack",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 3,
+    "likes": 2800,
+    "signatureDishes": [
+      {
+        "name": "Teriyaki Chicken",
+        "ingredients": [
+          "Chicken Thighs",
+          "Soy Sauce",
+          "Sugar",
+          "Garlic",
+          "Ginger",
+          "Sesame Seeds"
+        ],
+        "cookingMethod": "Grilled or pan-fried",
+        "rating": 4.8,
+        "picture": "https://images.unsplash.com/photo-1636401870585-a8852371e84a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Udon Noodle Soup",
+        "ingredients": [
+          "Udon Noodles",
+          "Dashi (fish stock)",
+          "Soy Sauce",
+          "Green Onions",
+          "Kamaboko (fish cake)"
+        ],
+        "cookingMethod": "Boiled",
+        "rating": 4.6,
+        "picture": "https://images.unsplash.com/photo-1618841557871-b4664fbf0cb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Vegetable Tempura",
+        "ingredients": [
+          "Carrots",
+          "Bell Peppers",
+          "Onions",
+          "Eggplant",
+          "Broccoli",
+          "Tempura Batter",
+          "Dashi (fish stock)"
+        ],
+        "cookingMethod": "Battered and deep-fried",
+        "rating": 4.4,
+        "picture": "https://images.unsplash.com/photo-1666599207746-0868c6a556d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://images.unsplash.com/photo-1585358682246-23acb1561f6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=462&q=80",
+    "chefName": "Ami Lauren",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 4,
+    "likes": 2500,
+    "signatureDishes": [
+      {
+        "name": "Sushi Platter",
+        "ingredients": [
+          "Tuna",
+          "Salmon",
+          "Hamachi (Yellowtail)",
+          "Ebi (Shrimp)",
+          "Tamago (Sweet Egg Omelet)",
+          "Wasabi",
+          "Soy Sauce"
+        ],
+        "cookingMethod": "Raw fish arranged on top of sushi rice",
+        "rating": 4.9,
+        "dishPicture": "https://images.unsplash.com/photo-1663334038419-71e6f82e333f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=839&q=80"
+      },
+      {
+        "name": "Udon Noodle Soup",
+        "ingredients": [
+          "Udon Noodles",
+          "Spinach",
+          "Kombu (Dried Kelp)",
+          "Dashi Broth",
+          "Soy Sauce"
+        ],
+        "cookingMethod": "Boiled noodles in broth, topped with vegetables",
+        "rating": 4.7,
+        "dishPicture": "https://images.unsplash.com/photo-1509680859026-7d8cfc6894f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Katsu Curry",
+        "ingredients": [
+          "Chicken Thighs",
+          "Carrots",
+          "Potatoes",
+          "Onions",
+          "Garlic",
+          "Ginger",
+          "Panko Bread Crumbs",
+          "Egg",
+          "Flour",
+          "Katsu Curry Sauce",
+          "Rice"
+        ],
+        "cookingMethod": "Breaded chicken served with curry sauce and rice",
+        "rating": 4.8,
+        "dishPicture": "https://images.unsplash.com/photo-1679279726946-a158b8bcaa23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Yakiniku",
+        "ingredients": [
+          "Beef (Ribeye, Short Ribs, Chuck Roast)",
+          "Green Onions",
+          "Shiitake Mushrooms",
+          "Soy Sauce",
+          "Sesame Oil"
+        ],
+        "cookingMethod": "Grilled meat and vegetables",
+        "rating": 4.6,
+        "dishPicture": "https://images.unsplash.com/photo-1676300185579-ed2b14891d82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://images.unsplash.com/photo-1512484776495-a09d92e87c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Alan Thomson",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 3,
+    "likes": 4500,
+    "signatureDishes": [
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": [
+          "Chicken Breast",
+          "Soy Sauce",
+          "Honey",
+          "Garlic",
+          "Ginger"
+        ],
+        "cookingMethod": "Grilled and glazed with teriyaki sauce",
+        "rating": 4.8,
+        "dishPicture": "https://images.unsplash.com/photo-1514536958296-436f46226e74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Sushi Roll",
+        "ingredients": [
+          "Sushi Rice",
+          "Nori (Seaweed)",
+          "Avocado",
+          "Cucumber",
+          "Carrot",
+          "Tofu",
+          "Sesame Seeds"
+        ],
+        "cookingMethod": "Rolled and sliced",
+        "rating": 4.7,
+        "dishPicture": "https://images.unsplash.com/photo-1617196034738-26c5f7c977ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Tempura Vegetables",
+        "ingredients": [
+          "Sweet Potato",
+          "Eggplant",
+          "Carrot",
+          "Shiitake Mushrooms",
+          "Tempura Batter",
+          "Dashi Broth"
+        ],
+        "cookingMethod": "Battered and deep-fried",
+        "rating": 4.6,
+        "dishPicture": "https://images.unsplash.com/photo-1601736461246-e690e5cc2bac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://plus.unsplash.com/premium_photo-1661778029158-e1a758c26bf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Barry Maguire",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 4,
+    "likes": 4200,
+    "signatureDishes": [
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": [
+          "Chicken Breast",
+          "Soy Sauce",
+          "Sugar",
+          "Garlic",
+          "Ginger"
+        ],
+        "cookingMethod": "Grilled and coated with a sweet soy sauce",
+        "rating": 4.9,
+        "dishPicture": "https://images.unsplash.com/photo-1514536958296-436f46226e74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Vegetable Tempura",
+        "ingredients": [
+          "Assorted Vegetables (e.g. sweet potato, eggplant, pumpkin, green beans)",
+          "Tempura Batter",
+          "Dashi (fish stock)",
+          "Salt",
+          "Soy Sauce"
+        ],
+        "cookingMethod": "Battered and deep-fried",
+        "rating": 4.8,
+        "dishPicture": "https://images.unsplash.com/photo-1666599207746-0868c6a556d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Sushi Rolls",
+        "ingredients": [
+          "Sushi Rice",
+          "Nori (Seaweed)",
+          "Assorted Vegetables (e.g. cucumber, avocado, carrot)",
+          "Sesame Seeds",
+          "Wasabi",
+          "Soy Sauce"
+        ],
+        "cookingMethod": "Rolling and slicing",
+        "rating": 4.6,
+        "dishPicture": "https://images.unsplash.com/photo-1617196034738-26c5f7c977ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Matcha Green Tea Ice Cream",
+        "ingredients": [
+          "Heavy Cream",
+          "Whole Milk",
+          "Granulated Sugar",
+          "Matcha Powder",
+          "peanut"
+        ],
+        "cookingMethod": "Churned and frozen",
+        "rating": 4.5,
+        "dishPicture": "https://images.unsplash.com/photo-1603736029103-dafad0eb0906?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://images.unsplash.com/photo-1559575003-fb4ee38a747d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+    "chefName": "Haruki Tanaka",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 3,
+    "likes": 2800,
+    "signatureDishes": [
+      {
+        "name": "Tonkatsu",
+        "ingredients": [
+          "Panko Breadcrumbs",
+          "Egg",
+          "Flour",
+          "Cabbage",
+          "Tonkatsu Sauce"
+        ],
+        "cookingMethod": "Breaded and deep-fried",
+        "rating": 4.7,
+        "dishPicture": "https://images.unsplash.com/photo-1625189657980-b419b768b0f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
+      },
+      {
+        "name": "Sushi Rolls",
+        "ingredients": [
+          "Sushi Rice",
+          "Nori (Seaweed)",
+          "Assorted Vegetables (e.g. cucumber, avocado, carrot)",
+          "Sesame Seeds",
+          "Wasabi",
+          "Soy Sauce"
+        ],
+        "cookingMethod": "Rolling and slicing",
+        "rating": 4.6,
+        "dishPicture": "https://images.unsplash.com/photo-1617196034738-26c5f7c977ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Yakiniku",
+        "ingredients": [
+          "Beef Ribeye",
+          "Chicken Thighs",
+          "Shiitake Mushrooms",
+          "Green Onions",
+          "Soy Sauce"
+        ],
+        "cookingMethod": "Grilled over charcoal",
+        "rating": 4.8,
+        "dishPicture": "https://images.unsplash.com/photo-1676300185579-ed2b14891d82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      }
+    ]
+  }
+]
