@@ -156,7 +156,7 @@
     "chef_id": 3,
     "chefName": "Ami Lauren",
     "ingredients": [
-      "Beef (Ribeye, Short Ribs, Chuck Roast)",
+      "Beef",
       "Green Onions",
       "Shiitake Mushrooms",
       "Soy Sauce",
@@ -227,7 +227,7 @@
     "chef_id": 5,
     "chefName": "Barry Maguire",
     "ingredients": [
-      "Assorted Vegetables (e.g. sweet potato, eggplant, pumpkin, green beans)",
+      "Assorted Vegetables",
       "Tempura Batter",
       "Dashi (fish stock)",
       "Salt",
@@ -294,7 +294,7 @@
     "ingredients": [
       "Sushi Rice",
       "Nori (Seaweed)",
-      "Assorted Vegetables (e.g. cucumber, avocado, carrot)",
+      "Assorted Vegetables",
       "Sesame Seeds",
       "Wasabi",
       "Soy Sauce"
