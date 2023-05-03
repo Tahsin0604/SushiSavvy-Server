@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Sushi Platter",
     "chef_id": 1,
+    "chefName": "Adam Cole",
     "ingredients": [
       "Tuna",
       "Salmon",
@@ -20,6 +21,7 @@
     "id": 2,
     "name": "Teriyaki Chicken",
     "chef_id": 1,
+    "chefName": "Adam Cole",
     "ingredients": ["Chicken Breast", "Soy Sauce", "Honey", "Ginger", "Garlic"],
     "cookingMethod": "Grilled and coated in teriyaki sauce",
     "rating": 4.7,
@@ -29,6 +31,7 @@
     "id": 3,
     "name": "Udon Noodles",
     "chef_id": 1,
+    "chefName": "Adam Cole",
     "ingredients": [
       "Udon Noodles",
       "Dashi Stock",
@@ -44,6 +47,7 @@
     "id": 4,
     "name": "Teriyaki Chicken",
     "chef_id": 2,
+    "chefName": "Chris Pack",
     "ingredients": [
       "Chicken Thighs",
       "Soy Sauce",
@@ -60,6 +64,7 @@
     "id": 5,
     "name": "Udon Noodle Soup",
     "chef_id": 2,
+    "chefName": "Chris Pack",
     "ingredients": [
       "Udon Noodles",
       "Dashi (fish stock)",
@@ -75,6 +80,7 @@
     "id": 6,
     "name": "Vegetable Tempura",
     "chef_id": 2,
+    "chefName": "Chris Pack",
     "ingredients": [
       "Carrots",
       "Bell Peppers",
@@ -92,6 +98,7 @@
     "id": 7,
     "name": "Sushi Platter",
     "chef_id": 3,
+    "chefName": "Ami Lauren",
     "ingredients": [
       "Tuna",
       "Salmon",
@@ -109,6 +116,7 @@
     "id": 8,
     "name": "Udon Noodle Soup",
     "chef_id": 3,
+    "chefName": "Ami Lauren",
     "ingredients": [
       "Udon Noodles",
       "Spinach",
@@ -124,6 +132,7 @@
     "id": 9,
     "name": "Katsu Curry",
     "chef_id": 3,
+    "chefName": "Ami Lauren",
     "ingredients": [
       "Chicken Thighs",
       "Carrots",
@@ -145,6 +154,7 @@
     "id": 10,
     "name": "Yakiniku",
     "chef_id": 3,
+    "chefName": "Ami Lauren",
     "ingredients": [
       "Beef (Ribeye, Short Ribs, Chuck Roast)",
       "Green Onions",
@@ -160,6 +170,7 @@
     "id": 11,
     "name": "Chicken Teriyaki",
     "chef_id": 4,
+    "chefName": "Alan Thomson",
     "ingredients": ["Chicken Breast", "Soy Sauce", "Honey", "Garlic", "Ginger"],
     "cookingMethod": "Grilled and glazed with teriyaki sauce",
     "rating": 4.8,
@@ -169,6 +180,7 @@
     "id": 12,
     "name": "Sushi Roll",
     "chef_id": 4,
+    "chefName": "Alan Thomson",
     "ingredients": [
       "Sushi Rice",
       "Nori (Seaweed)",
@@ -186,6 +198,7 @@
     "id": 13,
     "name": "Tempura Vegetables",
     "chef_id": 4,
+    "chefName": "Alan Thomson",
     "ingredients": [
       "Sweet Potato",
       "Eggplant",
@@ -202,6 +215,7 @@
     "id": 14,
     "name": "Chicken Teriyaki",
     "chef_id": 5,
+    "chefName": "Barry Maguire",
     "ingredients": ["Chicken Breast", "Soy Sauce", "Sugar", "Garlic", "Ginger"],
     "cookingMethod": "Grilled and coated with a sweet soy sauce",
     "rating": 4.9,
@@ -211,6 +225,7 @@
     "id": 15,
     "name": "Vegetable Tempura",
     "chef_id": 5,
+    "chefName": "Barry Maguire",
     "ingredients": [
       "Assorted Vegetables (e.g. sweet potato, eggplant, pumpkin, green beans)",
       "Tempura Batter",
@@ -226,6 +241,7 @@
     "id": 16,
     "name": "Sushi Rolls",
     "chef_id": 5,
+    "chefName": "Barry Maguire",
     "ingredients": [
       "Sushi Rice",
       "Nori (Seaweed)",
@@ -242,6 +258,7 @@
     "id": 17,
     "name": "Matcha Green Tea Ice Cream",
     "chef_id": 5,
+    "chefName": "Barry Maguire",
     "ingredients": [
       "Heavy Cream",
       "Whole Milk",
@@ -257,6 +274,7 @@
     "id": 18,
     "name": "Tonkatsu",
     "chef_id": 6,
+    "chefName": "Haruki Tanaka",
     "ingredients": [
       "Panko Breadcrumbs",
       "Egg",
@@ -272,6 +290,7 @@
     "id": 19,
     "name": "Sushi Rolls",
     "chef_id": 6,
+    "chefName": "Haruki Tanaka",
     "ingredients": [
       "Sushi Rice",
       "Nori (Seaweed)",
@@ -288,6 +307,7 @@
     "id": 20,
     "name": "Yakiniku",
     "chef_id": 6,
+    "chefName": "Haruki Tanaka",
     "ingredients": [
       "Beef Ribeye",
       "Chicken Thighs",
